@@ -1,0 +1,18 @@
+Pasos para utilizar Flutter
+
+Descargar el paquete de Flutter
+
+crear carpeta en el disco local C:
+Descomprimir el archivo en la carpeta src
+llamada src una subcarpeta flutter y otra bin
+
+abrir la ventana de variables de entorno
+buscar la opcion d variables de entorno
+path doble clic y agregar a la ruta
+aceptar en todo
+apra probar windows + r cmd y ejecutar
+descargar extenciones en visual studuio
+flutter
+flutter (dark) generator
+flutter commands
+flutter widget snippets
